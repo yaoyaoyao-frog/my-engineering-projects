@@ -1,0 +1,15 @@
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 构建产物 / IDE
+bin/
+obj/
+.vs/
+*.user
